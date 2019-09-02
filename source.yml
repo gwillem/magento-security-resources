@@ -19,6 +19,7 @@ Magento security information:
     - Magento Vulnerability Database - Central respository of vulnerabilities in 3rd party Magento components https://github.com/gwillem/magevulndb
     - Magento 2 Security Checklist - A Magento community sourced security pre-flight checklist https://github.com/talesh/magento-security-checklist
     - Magento 2 Security Best Practices - [Adobe] https://docs.magento.com/m2/ee/user_guide/magento/magento-security-best-practices.html
+    - Magento Incident Response Plan Template https://github.com/talesh/response
   - Blogs / Research:
     - RiskIQ - https://www.riskiq.com/blog/category/magecart/
     - Sanguine Labs - https://sansec.io/labs

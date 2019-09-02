@@ -2,6 +2,10 @@
 
 Comprehensive list of resources to help you prevent, mitigate & resolve Magento security incidents. All listed vendors have experience with Magecart-related attacks.
 
+Are you a merchant dealing with an incident? If you have experienced staff, you can use the tools listed below to find the root cause and eliminate all backdoors.
+
+If you don't have on-site staff or need an external report for compliancy, you can engage one of the consultancies below.
+
 Official Adobe resources are marked as such.
 
 # Mitigation tools
@@ -31,6 +35,7 @@ Official Adobe resources are marked as such.
 ## Reference
 - [Magento 2 Security Best Practices](https://docs.magento.com/m2/ee/user_guide/magento/magento-security-best-practices.html) - [Adobe]
 - [Magento 2 Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist
+- [Magento Incident Response Plan Template](https://github.com/talesh/response)
 - [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central respository of vulnerabilities in 3rd party Magento components
 
 ## Blogs / Research
@@ -38,8 +43,6 @@ Official Adobe resources are marked as such.
 - [Malwarebytes](https://blog.malwarebytes.com)
 - [RiskIQ](https://www.riskiq.com/blog/category/magecart/)
 - [Sanguine Labs](https://sansec.io/labs)
-
-----
 
 # Contribute?
 
