@@ -1,0 +1,26 @@
+Mitigation tools:
+  - Free:
+    - MageReport - Remote vulnerability scanner https://www.magereport.com
+    - Magento Security Scan - Remote vulnerablity scanner [Adobe] https://account.magento.com/scanner/
+    - Magento Malware Scanner - Server-side malware scanner https://github.com/gwillem/magento-malware-scanner
+  - Commercial:
+    - eComscan - Advanced Magento malware detection https://sansec.io/ecomscan.html
+Magento consultancy services:
+  - Incident Response:
+    - 3b Data Security - Digital forensics, incident response & data breach management services https://3bdatasecurity.com/
+    - Foregenix - Cybersecurity, digital forensics, PCI compliance, PFI https://www.foregenix.com/
+    - Sanguine Security - Empowers Magento merchants to fix and prevent breaches https://sansec.io
+    - Sucuri - Complete website security, protection and monitoring https://sucuri.net/
+    - Talesh Seeparsan - Magento Security Consultant https://www.seeparsan.net/
+  - Security maintenance:
+    - Mage One - Paid security support for Magento 1 https://www.mage-one.com
+Magento security information:
+  - Reference:
+    - Magento Vulnerability Database - Central respository of vulnerabilities in 3rd party Magento components https://github.com/gwillem/magevulndb
+    - Magento 2 Security Checklist - A Magento community sourced security pre-flight checklist https://github.com/talesh/magento-security-checklist
+    - Magento 2 Security Best Practices - [Adobe] https://docs.magento.com/m2/ee/user_guide/magento/magento-security-best-practices.html
+  - Blogs / Research:
+    - RiskIQ - https://www.riskiq.com/blog/category/magecart/
+    - Sanguine Labs - https://sansec.io/labs
+    - Magento Security Blog - [Adobe] - http://magento.com/security/
+    - Malwarebytes - https://blog.malwarebytes.com
