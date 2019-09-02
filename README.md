@@ -2,8 +2,8 @@
 
 Comprehensive list of resources to help you prevent, mitigate & resolve Magento security incidents. All listed vendors have experience with Magecart-related attacks.
 
-> Are you a merchant dealing with an incident? If you have experienced staff, you can use the tools listed below to find the root cause and eliminate all backdoors.
-> If you don't have on-site staff or need an external report for compliancy, you can engage one of the consultancies below.
+> Are you a merchant dealing with an incident? If you have experienced staff, you can use the tools listed below to speed up the recovery process and prevent a repeat.
+> If you don't have staff available or need an external report for compliancy, you can engage one of the consultancies below.
 
 Official Adobe resources are marked as such.
 
@@ -24,15 +24,14 @@ Official Adobe resources are marked as such.
 - [Foregenix](https://www.foregenix.com/) - Cybersecurity, digital forensics, PCI compliance, PFI
 - [Sanguine Security](https://sansec.io) - Empowers Magento merchants to fix and prevent breaches
 - [Sucuri](https://sucuri.net/) - Complete website security, protection and monitoring
-- [Talesh Seeparsan](https://www.seeparsan.net/) - Magento Security Consultant
 
 ## Security maintenance
 - [Mage One](https://www.mage-one.com) - Paid security support for Magento 1
 
 ## Independent consultants
-- [Steve Perry](https://twitter.com/stevemarkperry)
-- [Talesh Seeparsan](https://twitter.com/_Talesh)
-- [Willem de Groot](https://twitter.com/gwillem)
+- [Steve Perry](https://twitter.com/stevemarkperry) - United Kingdom
+- [Talesh Seeparsan](https://twitter.com/_Talesh) - Canada
+- [Willem de Groot](https://twitter.com/gwillem) - Netherlands
 
 # Magento security information
 
