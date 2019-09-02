@@ -2,9 +2,8 @@
 
 Comprehensive list of resources to help you prevent, mitigate & resolve Magento security incidents. All listed vendors have experience with Magecart-related attacks.
 
-Are you a merchant dealing with an incident? If you have experienced staff, you can use the tools listed below to find the root cause and eliminate all backdoors.
-
-If you don't have on-site staff or need an external report for compliancy, you can engage one of the consultancies below.
+> Are you a merchant dealing with an incident? If you have experienced staff, you can use the tools listed below to speed up the recovery process.
+> If you don't have staff available, or need an external report for compliancy, you can engage one of the consultancies below.
 
 Official Adobe resources are marked as such.
 
@@ -16,7 +15,7 @@ Official Adobe resources are marked as such.
 - [Magento Security Scan](https://account.magento.com/scanner/) - Remote vulnerablity scanner [Adobe]
 
 ## Commercial
-- [eComscan](https://sansec.io/ecomscan.html) - Advanced Magento malware detection
+- [eComscan](https://sansec.io/ecomscan.html) - Advanced Magento malware detection & prevention
 
 # Magento consultancy services
 
