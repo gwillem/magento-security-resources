@@ -4,7 +4,7 @@ Mitigation tools:
     - Magento Security Scan - Remote vulnerablity scanner [Adobe] https://account.magento.com/scanner/
     - Magento Malware Scanner - Server-side malware scanner https://github.com/gwillem/magento-malware-scanner
   - Commercial:
-    - eComscan - Advanced Magento malware detection https://sansec.io/ecomscan.html
+    - eComscan - Advanced Magento malware detection https://sansec.io/ecomscan/
 Magento consultancy services:
   - Incident Response:
     - 3b Data Security - Digital forensics, incident response & data breach management services https://3bdatasecurity.com/

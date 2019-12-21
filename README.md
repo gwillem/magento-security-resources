@@ -15,7 +15,7 @@ Official Adobe resources are marked as such.
 - [Magento Security Scan](https://account.magento.com/scanner/) - Remote vulnerablity scanner [Adobe]
 
 ## Commercial
-- [eComscan](https://sansec.io/ecomscan.html) - Advanced Magento malware detection
+- [eComscan](https://sansec.io/ecomscan/) - Advanced Magento malware detection
 
 # Magento consultancy services
 
@@ -36,7 +36,7 @@ Official Adobe resources are marked as such.
 # Magento security information
 
 ## Reference
-- [Magento 2 Security Best Practices](https://www.adobe.com//content/dam/acom/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf) - [Adobe]
+- [Magento 2 Security Best Practices](https://docs.magento.com/m2/ee/user_guide/magento/magento-security-best-practices.html) - [Adobe]
 - [Magento 2 Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist
 - [Magento Incident Response Plan Template](https://github.com/talesh/response)
 - [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central respository of vulnerabilities in 3rd party Magento components
