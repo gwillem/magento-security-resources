@@ -40,6 +40,7 @@ Official Adobe resources are marked as such.
 - [Magento 2 Security Checklist](https://github.com/talesh/magento-security-checklist) - A Magento community sourced security pre-flight checklist
 - [Magento Incident Response Plan Template](https://github.com/talesh/response)
 - [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central respository of vulnerabilities in 3rd party Magento components
+- [Magento 1/OpenMage - Security.txt generator](https://github.com/kkrieger85/magento-module-security-txt) Magento 1 Module which generates [security.txt](https://securitytxt.org/) file, configurable in Magento Backend 
 
 ## Blogs / Research
 - [Magento Security Blog](http://magento.com/security/) - [Adobe]
